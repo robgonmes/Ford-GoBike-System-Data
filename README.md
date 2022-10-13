@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The Ford GoBike dataset containes ride information about 183,412 trips made in a bike-sharing system covering the greater San Francisco Bay area. The datases contians trip information such as the date, duration, gender, birth year, and more. The dataset data can be found [here].
+The Ford GoBike dataset containes ride information about 183,412 trips made in a bike-sharing system covering the greater San Francisco Bay area. The datases contians trip information such as the date, duration, gender, birth year, and more. The dataset used for the analyis can be found [here](https://app.box.com/s/usyz52rkksbqpzuqe8rg0qi50ofngzne).
 
 
 ## Summary of Findings
